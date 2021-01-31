@@ -1,0 +1,1 @@
+# Smallest-and-largest-number-in-an-array
